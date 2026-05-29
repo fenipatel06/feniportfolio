@@ -113,9 +113,9 @@ export default function Home() {
       >
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-12 text-center">
           {[
-            { value: "7000+", label: "Students Mentored" },
-            { value: "1500+", label: "Active Cohorts Synchronously" },
-            { value: "6x", label: "GPSC Prelims Cleared", highlighted: true },
+            { value: "7000+", label: "Students Mentored"},
+            { value: "1500+", label: "Active Learners" },
+            { value: "6x", label: "GPSC Prelims Cleared" },
             { value: "6", label: "Civil Engineering Books Authored" },
           ].map((stat, idx) => (
             <motion.div key={idx} variants={fadeInUp} className="space-y-1">

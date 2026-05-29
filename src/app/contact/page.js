@@ -50,7 +50,7 @@ const contactHubs = [
     value: "@fenipatel006",
     href: "https://www.instagram.com/fenipatel006/",
     label: "View digital updates",
-    description: "Visual summaries, team culture checkpoints, and daily technical learning matrices.",
+    description: "Leadership insights, entrepreneurial experiences, and continuous personal growth.",
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
@@ -65,7 +65,7 @@ const contactHubs = [
     value: "@websankul_civil_engineering",
     href: "https://www.instagram.com/websankul_civil_engineering/",
     label: "View digital updates",
-    description: "Visual summaries, team culture checkpoints, and daily technical learning matrices.",
+    description: "Civil engineering education, competitive exam preparation, and student success stories.",
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
