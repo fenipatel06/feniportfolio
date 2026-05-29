@@ -57,7 +57,7 @@ export default function RootLayout({ children }) {
         {/* SYSTEM FOOTER */}
         <footer className="bg-[#0F1E36] border-t border-white/5 text-slate-400 py-12 px-6 text-center text-xs tracking-wider">
           <div className="max-w-6xl mx-auto space-y-4">
-            <p className="font-bold text-[#D49E2D]">FENI Y. PATEL &copy; {new Date().getFullYear()}</p>
+            <p className="font-bold text-[#D49E2D]">FENI PATEL &copy; {new Date().getFullYear()}</p>
             <p className="max-w-md mx-auto text-slate-500 leading-relaxed">
               Civil Infrastructure System Optimization, Institutional Scale Management & Academic Curriculums.
             </p>

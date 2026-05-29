@@ -50,7 +50,7 @@ export default function Home() {
               variants={fadeInUp}
               className="text-5xl md:text-7xl font-black tracking-tight leading-none"
             >
-              FENI Y. PATEL
+              FENI PATEL
             </motion.h1>
             <motion.p
               variants={fadeInUp}
